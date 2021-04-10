@@ -2,7 +2,7 @@
 
 ## Project description
 Ever wonder the hit song or the blockbuster movie in a specific date?
-The project provides the best songs and movies recorded over a 20-year period in the United States (1999 - 2019)
+The project provides the best songs and movies recorded over a 20-year period in the United States (1999 - 2019).
 
 ## Sources & Extraction 
 The project considers 2 data sources:
