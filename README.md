@@ -27,15 +27,15 @@ The project considers 2 data sources:
       * Dropping columns not needed and resetting the index so that they have a similar format to the movies data frame.
       
  ## Loading
-      * Creating table schemas:
+      Creating table schemas:
             CREATE TABLE top_movies(“year_week”  VARCHAR (10) PRIMARY KEY, top_movie VARCHAR (90).
             CREATE TABLE top_songs(“year_week”  VARCHAR (10) PRIMARY KEY, top_song VARCHAR (90).
-       * Creating database connection
+      Creating database connection
             Connection string: "postgres:postgres@localhost:5432/”.
             Engine: “create_engine(f’postgresql://{connection_string}’)”.
-       * Confirming tables
-       * Loading data frames into database.
-       * Loading data base.
+       Confirming tables.
+       Loading data frames into database.
+       Loading data base.
        
 ## Additional considerations
 
