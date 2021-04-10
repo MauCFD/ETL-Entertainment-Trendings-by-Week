@@ -33,9 +33,9 @@ The project considers 2 data sources:
        * Creating database connection
             Connection string: "postgres:postgres@localhost:5432/”.
             Engine: “create_engine(f’postgresql://{connection_string}’)”.
-       *Confirming tables
-       *Loading data frames into database.
-       *Loading data base.
+       * Confirming tables
+       * Loading data frames into database.
+       * Loading data base.
        
 ## Additional considerations
 
